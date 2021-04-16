@@ -1,11 +1,16 @@
 _repo: Velazquez-en-el-museo-del-Prado_65034
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65034-h/images/cover.jpg
 creator:
   author:
     agent_name: Moret, A. de Buruete y
     gutenberg_agent_id: '53155'
     url: http://www.gutenberg.org/2009/agents/53155
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65034#Velazquez-en-el-museo-del-Prado
 gutenberg_issued: '2021-04-09'
 gutenberg_type: Text
 identifiers:
